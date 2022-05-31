@@ -1,0 +1,20 @@
+
+
+.first {
+  background-color: brown;
+  color: red;
+  width: 50px 50px;
+  position: absolute 50px;
+  float: right;
+
+  margin-top: 50px;
+}
+
+.second {
+  background-color: purple;
+  color: green;
+  width: 50px 50px;
+
+  border-right: 50px
+  paddin
+}
